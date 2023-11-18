@@ -1,5 +1,5 @@
 ### 🐟🐟🐟
-[![trophy](https://github-profile-trophy.vercel.app/?username=GotouTamaki=onedark)](https://github.com/GotouTamaki/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GotouTamaki=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **GotouTamaki/GotouTamaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
