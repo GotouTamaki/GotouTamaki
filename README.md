@@ -2,7 +2,7 @@
 ## My Stats
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=GotouTamaki&theme=onedark&show_icons=ture" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact&show_icons=true&theme=onedark" />  
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GotouTamaki&layout=compact&show_icons=true&theme=onedark" />  
 </p>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=GotouTamaki&theme=onedark" alt="GotouTamaki" />
 <!--
