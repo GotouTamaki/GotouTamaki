@@ -2,8 +2,9 @@
 ## My Stats
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=GotouTamaki&theme=onedark&show_icons=ture" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GotouTamaki&layout=compact&show_icons=true&theme=onedark" />  
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact&show_icons=true&theme=onedark" />  
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=GotouTamaki&theme=onedark&column=7)](https://github.com/GotouTamaki/github-profile-trophy)
 <!--
 **GotouTamaki/GotouTamaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
