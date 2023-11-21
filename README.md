@@ -6,7 +6,7 @@
 </p>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=GotouTamaki&theme=onedark" alt="GotouTamaki" />
 
-[![My Skills](https://skillicons.dev/icons?i=cs,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,&theme=dark)](https://skillicons.dev)
 <!--
 **GotouTamaki/GotouTamaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
